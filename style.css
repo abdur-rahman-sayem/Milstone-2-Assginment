@@ -218,7 +218,7 @@ section {
 
 section.grid-layout {
     padding: 35px 0;
-    background-image: url("assets/bg.png");
+    background-image: url("assets/bg.png"), linear-gradient(transparent, #Fad9a1 104%);
     background-repeat: no-repeat;
     padding-bottom: 80px;
 }
